@@ -28,6 +28,9 @@ Cybersecurity SOC incident analysis prject
 High 🚨
 
 ---
+## 📊 Evidence / Screenshot
+
+![SOC Incident](name)
 
 ## 🛡️ Recommendations
 - Enable MFA

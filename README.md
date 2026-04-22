@@ -3,9 +3,8 @@ Cybersecurity SOC incident analysis prject
 # SOC Incident Analysis – Suspicious Login Investigation
 
 ## 📖 Overview
-This project simulates a cybersecurity incident where multiple failed login attempts were detected, followed by a successful login from an unusual location.
 
----
+---This project is a cybersecurity simulation (SOC lab) that analyzes a hypothetical login attack scenario involving suspicious authentication activity.
 
 ## 🧪 Scenario Description
 - Multiple failed login attempts detected

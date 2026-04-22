@@ -30,7 +30,7 @@ High 🚨
 ---
 ## 📊 Evidence / Screenshot
 
-![SOC Incident](name)
+![SOC Incident](EE4CA8FA-AABD-41CE-BB23-BEDF8124AD63.png)
 
 ## 🛡️ Recommendations
 - Enable MFA
